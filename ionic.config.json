@@ -1,0 +1,7 @@
+{
+  "name": "sports-court-booking-system",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular-standalone"
+}
